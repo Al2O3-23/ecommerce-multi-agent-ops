@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+ecommerce_ops.db
+.env
+.venv/
+*.egg-info/
+dist/
+build/
+.claude/
+debug_*.png
